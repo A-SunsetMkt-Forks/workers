@@ -23,20 +23,15 @@ var url = "http://nginx.org/en/CHANGES";
 await (await fetch(`https://cors.eu.org/${url}`)).text();
 ```
 
+### 开发 Dev
+https://developers.cloudflare.com/workers/get-started/guide/
+
 ### 套餐 Price
 https://developers.cloudflare.com/workers/about/limits/
 
 额度顶不住了，使用量大请用自己的账号搭建服务吧，谢谢！！！  
 The amount can't hold up, please use your account to build the service if you use a lot, thank you! ! !  
 ![溢出](https://gs.zme.ink/2019/11/03/0752457693.png)
-
-
-# 🧡 pages (Cloudflare Pages Functions )
-### FAQ
-Cloudflare Pages Functions access to pure http will have a certificate error Invalid SSL certificate `Error code 526`
-
-https://developers.cloudflare.com/pages/platform/functions
-
 
 # Source
 <https://github.com/netnr/workers>

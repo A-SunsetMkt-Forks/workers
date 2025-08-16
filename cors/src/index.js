@@ -1,7 +1,7 @@
 /*
  * https://github.com/netnr/workers
  *
- * 2019-10-12 - 2024-10-02
+ * 2019-10-12 - 2025-08-16
  * netnr
  */
 
@@ -116,8 +116,8 @@ function fixUrl(url) {
 * 日志
 */
 const logStack = {
-    // Set your UUID https://www.loggly.com/
-    ts_UUID: "",
+    // Set your UUID https://www.loggly.com/ Logs>Source Setup>JavaScript
+    ts_UUID: "863edfb2-3d28-4451-9c9a-c2537a03b4a0",
 
     /**
      * 构建发送主体
