@@ -117,7 +117,7 @@ function fixUrl(url) {
 */
 const logStack = {
     // Set your UUID https://www.loggly.com/ Logs>Source Setup>JavaScript
-    ts_UUID: "863edfb2-3d28-4451-9c9a-c2537a03b4a0",
+    ts_UUID: "",
 
     /**
      * 构建发送主体
